@@ -1,3 +1,3 @@
 # U-Bahn
 
-The vizualising of growth of Berlin subway by years.
+Dataset and visualising of growth of Berlin subway by years.
